@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Gojo Satoru",
+        "number": 1,
+        "image": "https://cdn.w1st.xyz/cards/characters/1e364732-dfee-4672-bc0e-75796d3f9f78-3d.png",
+        "series": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Rias Gremory",
+        "number": 2,
+        "image": "https://cdn.w1st.xyz/cards/characters/173bec2f-b6a9-45ae-b547-1505f742f38f-3d.png",
+        "series": "High School DxD"
+    },
+    {
+        "name": "Pikachu",
+        "number": 3,
+        "image": "https://cdn.w1st.xyz/cards/characters/3da3f838-7a28-4467-ad25-a954e527802c-3d-4zuy2.png",
+        "series": "Pokemon"
+    },
+    {
+        "name": "Charizard",
+        "number": 4,
+        "image": "https://cdn.w1st.xyz/cards/characters/649ac5ef-2c4e-483e-8170-a8a8867da7d8-3d.png",
+        "series": "Pokemon"
+    },
+    {
+        "name": "Akeno Himejima",
+        "number": 5,
+        "image": "https://cdn.w1st.xyz/cards/characters/15344937-6834-41a7-8f02-d22665f44bb0-3d.png",
+        "series": " High School DxD"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "number": 6,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330546323727974421/NARUTO_40d59e71-da20-44c1-8527-8abfeab3a38b.png?ex=678e5f53&is=678d0dd3&hm=e24c95e20901be4fa1fa487d14d29ebe9d70a4331b1e9871e77e3c0345cc2548&",
+        "series": "Naruto"
+    },
+    {
+        "name": "Saitama",
+        "number": 7,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330546534152142889/220px-SaitamaWikipediapage.png?ex=678e5f86&is=678d0e06&hm=c60d9e8020ab50ceb1cec3c6a828e93af7eec02228e697562b5fadbcf738ff4a&",
+        "series": "One Punch Man"
+    },
+    {
+        "name": "Luffy",
+        "number": 8,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330546754369884190/24eaaa41-711b-4632-a86c-85a1067d52de.png?ex=678e5fba&is=678d0e3a&hm=12f3cc36d87ecbe598dbe80c9d67e4a7a93bd1fac46ebcb2c7853d5c972dd1ff&",
+        "series": "One Piece"
+    },
+    {
+        "name": "Goku",
+        "number": 9,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330546935320281120/e33c2fa94c03efa06678116f80d62d0d_708x.png?ex=678e5fe5&is=678d0e65&hm=8ac0e3599020c27190712b6ce740161a34a5183fbb7c939cd698af5f0cdff273&",
+        "series": "Dragon Ball Z"
+    },
+    {
+        "name": "Vegeta",
+        "number": 10,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330547075469021214/8f7a4e665400c8cb6c4387d5b7655ac5.png?ex=678e6007&is=678d0e87&hm=d97345edec5cce5446f666545ae97c814b76f59606bbddad968f103be92f47fc&",
+        "series": "Dragon Ball Z"
+    },
+    {
+        "name": "Kagome Higurashi",
+        "number": 11,
+        "image": "https://cdn.discordapp.com/attachments/1151403180740055082/1330547258848186429/kagomehigurashi-6f0e1-3209552985.png?ex=678e6032&is=678d0eb2&hm=075d18d98c34b38285e59286033efdbf2abea5994278b1e6a87b5e312d975f15&",
+        "series": "Inuyasha"
+    }
+    
+
+
+]
