@@ -1,0 +1,13 @@
+{
+  "name": "scoozie-dc",
+  "version": "1.0.0",
+  "description": "An Interactive Discord bot built with Node.js that allows users to collect and manage virtual cards through Discord commands.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
